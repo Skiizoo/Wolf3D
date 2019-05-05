@@ -1,0 +1,17 @@
+Pallier6:
+    + Textures des murs Est/Ouest
+
+Pallier7:
+    + Textures des murs Nord/Sud
+
+Pallier8:
+    + All textures + shaders
+
+A faire:
+    - Parsing / Analyse de la map en binaire 
+    - Réécrire fichier texture
+    - Réécrire anti-collision
+    - Mini-map
+    - Event pour
+        -- Exit
+    - FishEyes
